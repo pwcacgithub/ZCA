@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_CA_UTILITY</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Common Utility Class</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_UTILITY</CLSNAME>
+     <CMPNAME>GC_APP_SERVER</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Single-Character Flag</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_UTILITY</CLSNAME>
+     <CMPNAME>GC_BSLASH</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Single-Character Flag</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_UTILITY</CLSNAME>
+     <CMPNAME>GC_CHAR_X</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Single-Character Flag</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_UTILITY</CLSNAME>
+     <CMPNAME>GC_DELMS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>R/2 table</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_UTILITY</CLSNAME>
+     <CMPNAME>GC_FLD_FNAME</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>R/2 table</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_UTILITY</CLSNAME>
+     <CMPNAME>GC_FLD_ROWNO</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Character field of length 6</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_UTILITY</CLSNAME>
+     <CMPNAME>GC_LOC_SERVER</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Single-Character Flag</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <OBJH>
+    <OBJECTNAME>ZTCA_PARAM</OBJECTNAME>
+    <OBJECTTYPE>S</OBJECTTYPE>
+    <CLIDEP>X</CLIDEP>
+    <OBJCATEG>CUST</OBJCATEG>
+    <IMPORTABLE>3</IMPORTABLE>
+   </OBJH>
+   <OBJT>
+    <LANGUAGE>E</LANGUAGE>
+    <OBJECTNAME>ZTCA_PARAM</OBJECTNAME>
+    <OBJECTTYPE>S</OBJECTTYPE>
+    <DDTEXT>Program Parameter</DDTEXT>
+   </OBJT>
+   <OBJS>
+    <OBJS>
+     <OBJECTNAME>ZTCA_PARAM</OBJECTNAME>
+     <OBJECTTYPE>S</OBJECTTYPE>
+     <TABNAME>ZTCA_PARAM</TABNAME>
+     <DDIC>X</DDIC>
+     <PRIM_TABLE>X</PRIM_TABLE>
+    </OBJS>
+   </OBJS>
+   <TOBJ>
+    <TDDAT>
+     <TABNAME>ZTCA_PARAM</TABNAME>
+     <CCLASS>&amp;NC&amp;</CCLASS>
+    </TDDAT>
+    <TVDIR>
+     <TABNAME>ZTCA_PARAM</TABNAME>
+     <AREA>ZTCA_PARAM</AREA>
+     <TYPE>2</TYPE>
+     <LISTE>0005</LISTE>
+     <DETAIL>0006</DETAIL>
+     <BASTAB>X</BASTAB>
+     <FLAG>X</FLAG>
+    </TVDIR>
+    <TVIMF>
+     <TVIMF>
+      <TABNAME>ZTCA_PARAM</TABNAME>
+      <EVENT>01</EVENT>
+      <FORMNAME>BEFORE_SAVE</FORMNAME>
+     </TVIMF>
+     <TVIMF>
+      <TABNAME>ZTCA_PARAM</TABNAME>
+      <EVENT>03</EVENT>
+      <FORMNAME>BEFORE_DELETE</FORMNAME>
+     </TVIMF>
+     <TVIMF>
+      <TABNAME>ZTCA_PARAM</TABNAME>
+      <EVENT>05</EVENT>
+      <FORMNAME>CREATE_NEW_ENTRY</FORMNAME>
+     </TVIMF>
+     <TVIMF>
+      <TABNAME>ZTCA_PARAM</TABNAME>
+      <EVENT>AA</EVENT>
+      <FORMNAME>DISPLAY_AUTHORIZED_DATA</FORMNAME>
+     </TVIMF>
+    </TVIMF>
+   </TOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

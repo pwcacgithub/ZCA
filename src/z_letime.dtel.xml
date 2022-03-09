@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>Z_LETIME</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <HEADLEN>17</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>17</SCRLEN2>
+    <SCRLEN3>17</SCRLEN3>
+    <DDTEXT>Last Extract Time</DDTEXT>
+    <REPTEXT>Last Extract Time</REPTEXT>
+    <SCRTEXT_S>Last Extra</SCRTEXT_S>
+    <SCRTEXT_M>Last Extract Time</SCRTEXT_M>
+    <SCRTEXT_L>Last Extract Time</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <DATATYPE>TIMS</DATATYPE>
+    <LENG>000006</LENG>
+    <OUTPUTLEN>000008</OUTPUTLEN>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

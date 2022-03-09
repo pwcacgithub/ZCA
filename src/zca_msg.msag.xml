@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZCA_MSG</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Message class for Cross Application</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Not authorized to Create parameters for Bus Process &amp; and Bus Activity &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Business Process &amp; Invalid</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Business Process &amp; not maintained in SLG0 as Object</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Business Activity &amp; Invalid</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Business Activity &amp; not maintained in SLG0 as SubObject</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Log header Inconsistent</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Error encountered while creating log handle</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Please input External ID / RICEF ID</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Application Log successfully created</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Log not found for input criteria</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Data is not maintained in ZTCA_PARAM table</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>&amp; &amp; Data records updated successfully</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Record(s) already exist.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Not authorized to Update parameters for Bus Process &amp; and Bus Activity &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Not authorized to Extract parameters for Bus Process &amp; and Bus Activity &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Validity end date must be greater than or equal to Validity start date</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Invalid date &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>Not authorized to Create parameters for &amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Not authorized to Change parameters</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>Cycle &amp; deleted.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>Cycle created successfully</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>Cycle &amp; does not exist</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>Parameter/Select-Options name not found in TVARV table</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>Enqueue lock failed for table TVARV</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>TVARV table successfully updated for &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>TVARV table update failed for &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>Please input the parameter name.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>027</MSGNR>
+     <TEXT>Please input the Select-Option name.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>028</MSGNR>
+     <TEXT>PARAMETER/Select-options name not found in ZTCA_TVARCONTROL table.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>No data found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>Employee &amp; delimited.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>031</MSGNR>
+     <TEXT>Program parameter &amp; &amp; &amp; does not exist.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>032</MSGNR>
+     <TEXT>Parameter &amp; already exists in the database within the given date range</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>033</MSGNR>
+     <TEXT>Cost Element does not exists</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>034</MSGNR>
+     <TEXT>Duplicate Parameter &amp; in the Load file within the given date range</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>035</MSGNR>
+     <TEXT>Valid to must be greater than or equal to Valid from date for Parameter &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>036</MSGNR>
+     <TEXT>Duplicate Parameter &amp; within the given date range.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>037</MSGNR>
+     <TEXT>Duplicate Mapping entry &amp; within the given date range.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>038</MSGNR>
+     <TEXT>Duplicate Mapping value &amp; in the Load file within the given date range</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>039</MSGNR>
+     <TEXT>File upload failed with proxy failure</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>040</MSGNR>
+     <TEXT>Cycle &amp; has been executed and can not be deleted</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>041</MSGNR>
+     <TEXT>USER field must be the super user</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>042</MSGNR>
+     <TEXT>Records failed to update at Workforce. Please see SLG1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>043</MSGNR>
+     <TEXT>No status available for date &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>044</MSGNR>
+     <TEXT>Please select the file path</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>045</MSGNR>
+     <TEXT>Max run time exceeded.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>046</MSGNR>
+     <TEXT>No authorization to change user id value</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>047</MSGNR>
+     <TEXT>Duplicate entry found for sur type &amp; userid&amp; surrogate &amp; in validty range</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>048</MSGNR>
+     <TEXT>Processing completed with status &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_MSG</ARBGB>
+     <MSGNR>049</MSGNR>
+     <TEXT>&amp; &amp; &amp; &amp;</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
